@@ -1,4 +1,4 @@
-# Fugue AI
+# FugueAI
 
 *Computational frameworks for semantic intelligence and contextual AI systems*
 
